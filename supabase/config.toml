@@ -1,0 +1,10 @@
+project_id = "fqaqtavqjdtekgygaszo"
+
+[functions.predict-diabetes]
+verify_jwt = false
+
+[functions.predict-parkinsons]
+verify_jwt = false
+
+[functions.predict-heart-disease]
+verify_jwt = false
